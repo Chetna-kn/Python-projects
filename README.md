@@ -1,0 +1,1 @@
+Conducted an end-to-end customer churn analysis using Python. Cleaned and preprocessed data, explored correlations between customer behavior and churn rates, and visualized key patterns using Matplotlib and Seaborn. Identified significant churn indicators such as tenure, senior citizenship, service usage, and payment method.
